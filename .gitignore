@@ -1,0 +1,17 @@
+
+.vscode/
+PRIVATE/
+
+
+*.exe
+=======
+#ignore any file with extensionn below
+.log
+.exe
+
+#ignore any file under any folder with this name
+FINANCE/
+PRIVATE/
+.vscode/
+
+
